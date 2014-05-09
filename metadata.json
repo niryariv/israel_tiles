@@ -1,0 +1,11 @@
+{
+    "attribution": "Data \u00a9 OpenStreetMap (and) contributors, CC-BY-SA", 
+    "description": "", 
+    "bounds": "34.14,29.4587,35.9088,33.3856", 
+    "name": "OSM Bright - Israel", 
+    "minzoom": "8", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "16", 
+    "center": "35.1453,31.7562,8"
+}
